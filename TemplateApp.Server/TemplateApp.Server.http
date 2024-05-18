@@ -1,0 +1,6 @@
+@TemplateApp.Server_HostAddress = http://localhost:5299
+
+GET {{TemplateApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
